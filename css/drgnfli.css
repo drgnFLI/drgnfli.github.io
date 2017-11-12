@@ -15,6 +15,27 @@ body {
   font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.bg-primary {
+  background-color: #1e4d69 !important;
+}
+
+.text-primary {
+  color: #61839c !important;
+}
+
+a:not(.btn) {
+  color: #61839c !important;
+}
+
+a:hover:not(.btn) {
+  color: #1e4d69 !important;
+}
+
 .text-vertical-center {
   display: table-cell;
   text-align: center;
