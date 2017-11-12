@@ -8,4 +8,4 @@ Modified the Start Bootstrap "Creative" Theme. Special thanks to Blackrock Digit
 
 Copyright 2017 drgnFLI.
 
-Code released under the [MIT](https://www.drgnfli.com/LICENSE) license.
+Code released under the [MIT](https://github.com/drgnFLI/drgnfli.github.io/blob/master/LICENSE) license.
