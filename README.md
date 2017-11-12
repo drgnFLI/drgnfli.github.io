@@ -8,4 +8,4 @@ Modified the Start Bootstrap "Stylish Portfolio" Theme. Special thanks to Blackr
 
 Copyright 2017 drgnFLI.
 
-Code released under the [MIT](https://github.com/drgnFLI/drgnfli.github.io/blob/master/LICENSE) license.
+Original template used is under the [MIT](https://github.com/drgnFLI/drgnfli.github.io/blob/master/LICENSE) license, with full license and copyright notice included here.
