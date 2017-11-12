@@ -21,19 +21,19 @@ body {
 }
 
 .bg-primary {
-  background-color: #1e4d69 !important;
+  background-color: #4e6405 !important;
 }
 
 .text-primary {
-  color: #61839c !important;
+  color: #73890d !important;
 }
 
 a:not(.btn) {
-  color: #61839c !important;
+  color: #73890d !important;
 }
 
 a:hover:not(.btn) {
-  color: #1e4d69 !important;
+  color: #4e6405 !important;
 }
 
 .text-vertical-center {
