@@ -2,7 +2,7 @@
 
 ## Site Template
 
-Modified the Start Bootstrap "Creative" Theme. Special thanks to Blackrock Digital at startbootstrap.com.
+Modified the Start Bootstrap "Stylish Portfolio" Theme. Special thanks to Blackrock Digital at startbootstrap.com.
 
 ## Copyright and License
 
